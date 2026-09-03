@@ -24,7 +24,7 @@ environment.
   attack/defend each other in a sandboxed environment, without exposing the host 
   machine or my home network to risk
 
-vm-lab-manager.png
+![VirtualBox VM Manager](./vm-lab-manager.png)
 
 ## How the Lab Is Used
 
